@@ -1,14 +1,14 @@
 import React from 'react';
 import { Menu, X, Phone, Mail, Instagram, Facebook, ChevronRight, Star, Image as ImageIcon } from 'lucide-react';
-import NavBar from './components/NavBar';
-import Hero from './components/Hero';
-import Services from './components/Services';
-import Gallery from './components/Gallery';
-import Reviews from './components/Reviews';
-import Contact from './components/Contact';
-import FAQ from './components/FAQ';
-import Blog from './components/Blog';
-import Calculator from './components/Calculator';
+import NavBar from './NavBar';
+import Hero from './Hero';
+import Services from './Services';
+import Gallery from './Gallery';
+import Reviews from './Reviews';
+import Contact from './Contact';
+import FAQ from './FAQ';
+import Blog from './Blog';
+import Calculator from './Calculator';
 
 function App() {
   return (
